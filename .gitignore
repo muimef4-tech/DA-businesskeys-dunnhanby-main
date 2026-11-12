@@ -1,1 +1,2 @@
-*.csv
+/data/processed/causal_data.csv
+/data/processed/transaction_data.csv
